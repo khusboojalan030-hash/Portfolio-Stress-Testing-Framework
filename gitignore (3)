@@ -1,0 +1,18 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Output artifacts (regenerated each run)
+stress_test_results.png
+stress_test_summary.csv
+position_sensitivity.csv
+
+# OS/editor junk
+.DS_Store
+.ipynb_checkpoints/
+.vscode/

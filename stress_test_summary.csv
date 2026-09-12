@@ -1,0 +1,6 @@
+scenario,total_pnl,total_pnl_pct,worst_position,worst_position_pnl
+2008 Global Financial Crisis (Jan-Oct 2008),-27745000.0,-0.5549,HDFCBANK,-8500000.0
+2020 COVID Crash (Jan-Mar 2020),-18065000.0,-0.3613,RELIANCE,-5880000.000000001
+Hypothetical: Simultaneous Rate Spike + Equity Crash,-12450000.0,-0.249,HDFCBANK,-3750000.0
+Hypothetical: INR Currency Crisis + Oil Price Spike,-5420000.0,-0.1084,HDFCBANK,-2250000.0
+2022 Rate Hike Cycle (Jan-Oct 2022),-3425000.0,-0.0685,INFY,-2700000.0
